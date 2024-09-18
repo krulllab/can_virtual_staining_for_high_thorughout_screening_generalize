@@ -17,5 +17,11 @@ authors = [
 ]
 dynamic = ["version"]
 dependencies = [
-    # Add your requirements here
+    dominate,
+    torch,
+    torchvision,
+    visdom,
+    tifffile,
+    opencv,
+    
 ]
