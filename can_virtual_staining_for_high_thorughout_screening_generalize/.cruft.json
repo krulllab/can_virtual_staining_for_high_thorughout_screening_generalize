@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/dlmbl/example-project",
+  "commit": "211e16768a751b5935f2915c01d57f871bae904a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Samuel Tonks",
+      "email": "smtonks2712@gmail.com",
+      "project_name": "can_virtual_staining_for_high_thorughout_screening_generalize?",
+      "project_slug": "can_virtual_staining_for_high_thorughout_screening_generalize",
+      "project_short_description": "Pix2PixHD GAN adapted for all virtual staining experiments on high-throughput screening datatset.",
+      "default_python": "3.8",
+      "_template": "https://github.com/dlmbl/example-project"
+    }
+  },
+  "directory": null
+}
