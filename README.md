@@ -2,7 +2,7 @@
 <img src='imgs/dataset.png' align="center" width=1000>
 
 
-## [Paper](https://arxiv.org/abs/2407.06979#:~:text=The%20large%20volume%20and%20variety,to%20other%20conditions%20remains%20underexplored.) [Dataset](To be added) <br>
+## [Paper](https://arxiv.org/abs/2407.06979#:~:text=The%20large%20volume%20and%20variety,to%20other%20conditions%20remains%20underexplored.) <br>
 
 ## Pytorch implementation of adapted pix2pixHD method for high-resolution (e.g. 1080x1080) virtual staining via image-to-image translation.
 ## Prerequisites
